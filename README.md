@@ -2,6 +2,7 @@
 
 A single-board Kanban app for visual project management.
 
+
 **Live demo: [kanban-nu-lake.vercel.app](https://kanban-nu-lake.vercel.app)**
 
 ![Kanban preview](docs/preview.png)
